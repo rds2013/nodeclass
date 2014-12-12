@@ -1,0 +1,26 @@
+{
+  "name": "nodeclass",
+  "version": "0.0.1",
+  "description": "json package for node class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rds2013/nodeclass.git"
+  },
+  "keywords": [
+    "project",
+    "test"
+  ],
+  "author": "Robert Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rds2013/nodeclass/issues"
+  },
+  "homepage": "https://github.com/rds2013/nodeclass",
+  "dependencies": {
+    "express": "^4.10.5"
+  }
+}
