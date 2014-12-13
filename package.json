@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/rds2013/nodeclass",
   "dependencies": {
-    "express": "^4.10.5"
+    "casper": "^0.1.1",
+    "casperjs": "^1.1.0-beta3",
+    "express": "^4.10.5",
+    "phantomjs": "^1.9.12"
   }
 }
